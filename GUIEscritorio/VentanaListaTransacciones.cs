@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GUIEscritorio
 {
-    public partial class Form1 : Form
+    public partial class VentanaListaTransacciones : Form
     {
-        public Form1()
+        public VentanaListaTransacciones()
         {
             InitializeComponent();
         }
